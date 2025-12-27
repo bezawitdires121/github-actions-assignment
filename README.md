@@ -1,2 +1,3 @@
-This commit completes the scheduled task workflow.
-Closes #2
+This commit fixes the CI workflow.
+
+Closes #1
