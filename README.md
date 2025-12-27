@@ -1,4 +1,3 @@
-This update completes the scheduled task workflow.
+This commit completes the scheduled task workflow.
 
 Closes #5
-
