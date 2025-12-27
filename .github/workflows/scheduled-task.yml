@@ -1,0 +1,14 @@
+name: Scheduled Task
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  scheduled-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Print scheduled message
+        run: echo "Scheduled task is running"
