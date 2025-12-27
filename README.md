@@ -1,2 +1,2 @@
 This commit completes the scheduled task workflow.
-Closes #5
+Closes #3
